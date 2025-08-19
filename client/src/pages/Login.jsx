@@ -35,7 +35,7 @@ const Login = () => {
             We're lovers truly connect
           </h1>
           <p className="text-xl md:text-3xl text-violet-900 max-w-72 md:max-w-md">
-            connect with global community on wanted-pangga.
+            connect with global community on wanted-pangga. what?
           </p>
         </div>
         <span className="md:h-10"></span>
